@@ -1,6 +1,6 @@
 {
   "name": "damage-report",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Checks Artillery.io results for errors and thresholds for use in CI/CD pipelines",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,7 @@
     "pipeline"
   ],
   "author": "David Dyke (daviddykeuk@gmail.com)",
+  "repository": "daviddykeuk/damage-report",
   "license": "ISC",
   "preferGlobal": true,
   "bin": "./index.js",
