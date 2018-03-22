@@ -1,0 +1,24 @@
+{
+  "name": "damage-report",
+  "version": "0.0.1",
+  "description": "Checks Artillery.io results for errors and thresholds for use in CI/CD pipelines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "artillery",
+    "report",
+    "performance",
+    "test",
+    "automation",
+    "pipeline"
+  ],
+  "author": "David Dyke (daviddykeuk@gmail.com)",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": "./index.js",
+  "dependencies": {
+    "flags": "^0.1.3"
+  }
+}
